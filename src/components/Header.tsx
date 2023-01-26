@@ -11,7 +11,7 @@ export function Header() {
      textAlign={["left","left","center"]}
      >
     <Heading fontWeight='extrabold' fontSize={['3xl','3xl','5xl']}>
-        Simple pricing for your business
+        Simple pricing for your business.
          </Heading>
     <Text  fontSize={['lg','lg','2xl']} fontWeight='medium' pt='4'>
         Plans that are carefully crafted to suit your business.</Text>
